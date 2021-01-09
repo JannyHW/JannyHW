@@ -1,6 +1,6 @@
-### [Live Site](https://realtime-chat-application.netlify.com)
+### [Live Site](https://jannykosin.com)
 
-![Chat Application](https://ibb.co/SvRpb6G)
+![Application](https://ibb.co/zNmCLcQ)
 
 <h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm Janny.</h2>
 
