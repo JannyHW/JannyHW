@@ -1,6 +1,6 @@
 ### [Live Site](https://jannykosin.com)
 
-![Application](https://pasteboard.co/JISDZOo.png)
+![Application](https://pasteboard.co/JISDZOo.png![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
 <h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm Janny.</h2>
 
