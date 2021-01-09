@@ -2,6 +2,8 @@
 
 <h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm  <img width="150px" src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Flogo.png?v=1610220143060" align="center" alt="Github Readme Stats" /></h2>
 
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 Here are a few things about me:
 
 - 🔭 I’m currently working on something cool 😉;.
@@ -18,7 +20,7 @@ Here are a few things about me:
 
 - 📫 How to reach me: [Email](mailto:jannykosin@gmail.com).
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -41,5 +43,3 @@ Here are a few things about me:
 
 
 
-<br/>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
