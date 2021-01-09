@@ -15,4 +15,4 @@ Here are a few things about me:
 - ⚡ Fun fact: loves coding & cooking 😋
 
 
-- 📫 How to reach me: [email](jannykosin@gmail.com).
+- 📫 How to reach me: [Email](mailto:jannykosin@gmail.com).
