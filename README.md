@@ -18,6 +18,8 @@ Here are a few things about me:
 
 - 📫 How to reach me: [Email](mailto:jannykosin@gmail.com).
 
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
