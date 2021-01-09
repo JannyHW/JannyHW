@@ -1,8 +1,8 @@
 <img src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Fpage.png?v=1610220104734" align="center" alt="Github Readme Stats" />
 
-<h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm  <img width="150px" src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Flogo.png?v=1610220143060" align="center" alt="Github Readme Stats" /></h2>
+<h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm  Janny.</h2>
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 
 Here are a few things about me:
 
