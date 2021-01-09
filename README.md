@@ -1,26 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Janny. 
 
-<!--
-**JannyHW/JannyHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi there 👋 I'm Janny. 
 Here are a few things you should know about me:
 
-🔭 I’m currently working on my freelance.
-🌱 I’m currently learning UX Design.
-👯 I’m looking to collaborate on reactjs.
-🤔 I’m looking for help with osdbapi.com
-💬 Ask me about anything, I mean anything
-📫 How to reach me: email JannyKosin@gmail.com
-⚡ Fun fact: loves coding & cooking 😋
+- 🔭 I’m currently working on my freelance.
+- 🌱 I’m currently learning  UX Design.
+- 👯 I’m looking to collaborate on react.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything, I mean anything.
+- 📫 How to reach me: email.
+- ⚡ Fun fact: loves coding & cooking 😋
