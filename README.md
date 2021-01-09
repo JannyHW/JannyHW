@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Janny, a passionate Web Developer 🚀.
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Janny, a passionate Web Developer 🚀.
 
 Here are a few things about me:
 
