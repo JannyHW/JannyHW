@@ -1,9 +1,5 @@
 <p align="center">
- <img width="100px" src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Flogo.png?v=1610220143060" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
-<h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm Janny.</h2>
+<h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm  <img width="120px" src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Flogo.png?v=1610220143060" align="center" alt="Github Readme Stats" /></h2>
 
 Here are a few things about me:
 
@@ -20,6 +16,7 @@ Here are a few things about me:
 - ⚡ Fun fact: loves coding & cooking 😋
 
 - 📫 How to reach me: [Email](mailto:jannykosin@gmail.com).
+</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
