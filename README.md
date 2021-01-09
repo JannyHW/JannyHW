@@ -8,7 +8,7 @@ Here are a few things about me:
 
 - 👯 I’m looking to collaborate on react.
 
-- 🤔 I’m looking for help with networking.
+- 🤔 I’m looking for help with networking <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
 
 - 💬 Ask me about anything, I'm happy to help.
 
