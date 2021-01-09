@@ -1,6 +1,7 @@
-### [Live Site](https://jannykosin.com)
-
-<img src="https://pasteboard.co/JISDZOo.png![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg" width="40px" />
+<p align="center">
+ <img width="100px" src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Flogo.png?v=1610220143060" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
 <h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm Janny.</h2>
 
