@@ -16,7 +16,7 @@ Here are a few things about me:
 
 - 💬 Ask me about anything, I'm happy to help!
 
-- ⚡ Fun fact: loves coding & cooking 😋
+- ⚡ Fun fact: I’m a part-time vegan and a bit of a clean freak.
 
 - 📫 How to reach me: [Email](mailto:jannykosin@gmail.com).
 
