@@ -1,6 +1,6 @@
-<img src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Freadme.png?v=1610255310951" align="center" alt="Github Readme Stats" />
+<img src="https://cdn.glitch.com/f279715d-4a72-49b0-a7fa-13db71dc2a5a%2Freadme2.png?v=1610313598426" align="center" alt="Github Readme Stats" />
 
-<h2> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />  I'm  Janny.</h2>
+<h2> Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />  there! I'm  Janny.</h2>
 
 
 
