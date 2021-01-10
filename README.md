@@ -1,4 +1,4 @@
-<img src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Fpage.png?v=1610220104734" align="center" alt="Github Readme Stats" />
+<img src="https://cdn.glitch.com/81f8e148-5259-4e27-89a1-abdc2ec1ee40%2Freadme.png?v=1610255310951" align="center" alt="Github Readme Stats" />
 
 <h2> Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />I'm  Janny.</h2>
 
@@ -6,15 +6,15 @@
 
 Here are a few things about me:
 
-- 🔭 I’m currently working on something cool 😉;.
+- 🔭 I’m currently working on something cool 😉;
 
 - 🌱 I’m currently learning UX Design.
 
-- 👯 I’m looking to collaborate on react.
+- 👯 I’m looking to collaborate on React.
 
-- 🤔 I’m looking for help with networking 
+- 🤔 I’m looking for help with Networking .
 
-- 💬 Ask me about anything, I'm happy to help.
+- 💬 Ask me about anything, I'm happy to help!
 
 - ⚡ Fun fact: loves coding & cooking 😋
 
