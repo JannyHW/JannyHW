@@ -12,9 +12,11 @@ Here are a few things about me:
 
 - 👯 I’m looking to collaborate on React.
 
-- 🤔 I’m looking for help with Networking .
+- 🤔 I’m looking for help with Networking.
 
 - 💬 Ask me about anything, I'm happy to help!
+
+- 🤣 I enjoy laughing at web developer memes.
 
 - ⚡ Fun fact: I’m a part-time vegan and a bit of a clean freak.
 
