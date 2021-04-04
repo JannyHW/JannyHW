@@ -8,7 +8,7 @@ Here are a few things about me:
 
 - 🔭 I’m currently working on something cool 😉;
 
-- 🌱 I’m currently learning iOS & Swift.
+- 🌱 I’m currently learning Flutter & Dart.
 
 - 👯 I’m looking to collaborate on React.
 
