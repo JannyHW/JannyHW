@@ -1,6 +1,6 @@
 <img src="https://cdn.glitch.com/f279715d-4a72-49b0-a7fa-13db71dc2a5a%2Freadme3.png?v=1610314461976" align="center" alt="Github Readme Stats" />
 
-<h2> Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />  there! I'm  Janny.</h2>
+<h2> Hey there! I'm  Janny.</h2>
 
 
 
