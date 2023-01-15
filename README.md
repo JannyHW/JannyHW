@@ -8,8 +8,6 @@ Here are a few things about me:
 
 - 🔭 I’m currently working on something cool 😉.
 
-- 🌱 I’m currently learning Flutter & Dart.
-
 - 👯 I’m looking to collaborate on Mobile Apps.
 
 - 🤔 I’m looking for help with Networking.
